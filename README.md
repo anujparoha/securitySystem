@@ -1,2 +1,2 @@
-# sequritySystem
+# securitySystem
 Cpp project
